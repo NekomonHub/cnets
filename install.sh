@@ -1,6 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 clear
+unzip cnets.zip
 echo "[+] Mengecek dependensi..."
 
 packages=("nodejs-lts" "git")
